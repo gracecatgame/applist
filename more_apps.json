@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "icon": "https://lh3.googleusercontent.com/dDB1KElDbJTHYeEwpEMFKGV2r6OKPdiu9asU7qAgmLqd2gghIw87rNlY19X7QV0or68=w300",
+      "name": "Hexa Blocks - Free Puzzle Game",
+      "stars": 4,
+      "downloadUrl": "https://play.google.com/store/apps/details?id=com.gracecat.hexablocks"
+    },
+    {
+      "icon": "https://lh3.googleusercontent.com/PVgaG1DhdcN_BjZaAfrcpDdSpim8zZC_mD5L9jt_TjYG1x-2zJljDCIw4G7RrTd2LzCF=w300",
+      "name": "Circle Rush",
+      "stars": 5,
+      "downloadUrl": "https://play.google.com/store/apps/details?id=com.gracecat.hexablocks"
+    }
+  ]
+}
